@@ -8,8 +8,8 @@ Maybe some will find this useful since [official releases](https://github.com/Le
 are only for Android and Windows.
 
 The files `lc0-v0.28.2-linux*` & `lc0-v0.29-linux*` were builded on Ubuntu 18.04.\
-The files `lc0-v0.30-linux*` were builded on Ubuntu 23.04 (with [CUDA<sup>®</sup>](https://developer.nvidia.com/cuda-toolkit) 11)
-and Ubuntu 23.10 (with CUDA 12).
+The files `lc0-v0.30-linux*` were builded on Ubuntu 23.04 (with [CUDA<sup>®</sup>](https://developer.nvidia.com/cuda-toolkit) 11) and Ubuntu 23.10 (with CUDA 12).\
+The files `lc0-v0.31-linux*` were builded on Ubuntu 24.04 (with [CUDA<sup>®</sup>](https://developer.nvidia.com/cuda-toolkit) 12).
 
 For detailed explanations see https://jldblog.eu/series/lc0/ (in French).
 
