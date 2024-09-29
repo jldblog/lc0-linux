@@ -1,4 +1,4 @@
-# lc0-ubuntu-unofficial-builds
+# lc0-linux-unofficial-builds
 
 [Lc0](https://github.com/LeelaChessZero/lc0) is an open source neural network based chess engine.
 
